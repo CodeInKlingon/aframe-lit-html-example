@@ -1,0 +1,2 @@
+import "./loadDefaultScene";
+import "./prefabLoader";
